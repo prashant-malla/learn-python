@@ -1,6 +1,6 @@
 __pycache__/
 .idea/
 django/
-mongodb-example/
+mongodb-eg/
 pandas/
 test/
