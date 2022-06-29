@@ -3,3 +3,4 @@ __pycache__/
 django/
 pandas/
 test/
+web-scraping/images/
