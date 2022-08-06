@@ -2,6 +2,8 @@
 1. [W3Schools](https://www.sololearn.com/)
 2. [Sololearn](https://www.sololearn.com/)
 
+[python project - medium](https://medium.com/coders-camp/60-python-projects-with-source-code-919cd8a6e512)
+
 ## Installing Python
 1. install python (python.org)
 2. IDLE Shell for playing
